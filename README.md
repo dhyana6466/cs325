@@ -4,4 +4,4 @@
 
  ### Some more information
 
- Hello from CS
+ Hello from CS SIUE
